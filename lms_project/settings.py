@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'lmsapp',
+    'account_app',
+    'api',
 ]
 
 MIDDLEWARE = [
